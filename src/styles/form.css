@@ -1,0 +1,12 @@
+textarea {
+    height: 10rem!important;
+}
+
+form, dl {
+    font-size: 1.3rem;
+    color: #333;
+}
+
+table {
+    color: #333;
+}
